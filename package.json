@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/jmx164491960/jmx-axios-demo#readme",
   "dependencies": {
+    "axios": "^0.17.0",
     "babel-polyfill": "^6.26.0",
-    "jmx-axios": "^0.17.3"
+    "jmx-axios": "^0.17.3",
+    "mockjs": "^1.0.1-beta3"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
